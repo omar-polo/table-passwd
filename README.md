@@ -10,7 +10,7 @@ custom tables with the new table protocol.
 Usage:
 
 	# /etc/mail/smtpd.conf
-	table users passwd:"/path/to//passwd"
+	table users passwd:"/path/to/passwd"
 
 Installing:
 
